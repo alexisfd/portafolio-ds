@@ -5,6 +5,6 @@ Portafolio Data Science
 
 Este repositorio es para evaluar, analizar y comprender dataset mediante las herramientas Data Analytics y Machine Learning.
 
-1. Analisis de [Ecommerce](https://github.com/alexisfd/portafolio/tree/main/Ecommerce).
+1. Analisis de [Ecommerce](https://github.com/alexisfd/portafolio-ds/tree/main/Ecommerce).
 
 El caso consiste en un dataset de productos de cosmetica, evaluamos el Customer journey, a los clientes y a los productos, de tal manera que logremos mejorar el proceso de compra,  optimizar las campañas y optimizar el catálogo de productos.
